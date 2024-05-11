@@ -1,0 +1,4 @@
+2024-05-12 02:33:21.320 +05:30 [ERR] some thind is ot right
+System.Exception: opps something not working
+   at elasticSearchAPI.TestController.Get() in F:\elastic\elasticSearchAPI\elasticSearchAPI\TestController.cs:line 26
+2024-05-12 02:33:21.540 +05:30 [ERR] HTTP GET /api/Test responded 500 in 448.6161 ms
